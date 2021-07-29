@@ -1,0 +1,39 @@
+{
+	"datos" : [
+		{
+			"titulo" : "ROCK 'N' ROLL NEVER DIES",
+			"texto" : "Entrevistado tan pronto como su victoria quedó clara, el cantante Damiano David exclamó: Solo queremos decirle a toda Europa, al mundo entero: ¡el rock and roll nunca muere!",
+			"tdeLectura" : 8
+		},
+		{
+			"titulo" : "QUE SIGNIFICA SU NOMBRE?",
+			"texto" : "El nombre está traducido al danés, y quiere decir luz de luna. Lo cierto es que Victoria, la bajista del grupo, tiene ascendencia danesa.", 
+			"tdeLectura" : 7
+		},
+		{
+			"titulo" : "OTRO DE SUS EXITO",
+			"texto" : "En 2017 participaron en The X Factor (Italia). Su éxito ya comenzaba a conquistar a su país, pues quedaron en segunda posición y fueron apadrinados por Manuel Agnelli.", 
+			"tdeLectura" : 7
+		},
+		{
+			"titulo" : "FUERON TELONEROS DE...",
+			"texto" : "...¡Imagine Dragons! Así es. Todo sucedió el 6 de septiembre de 2018 cuando la banda estadounidense pisó Milán durante su gira de otoño.", 
+			"tdeLectura" : 7
+		},
+		{
+			"titulo" : "COMO NACIO LA BANDA?",
+			"texto" : "Nos remontamos al año 2015. Previamente, Victoria De Angelis y Thomas Raggi, el guitarrista, se conocieron en la secundaria. Descubireron su pasión la música y en agosto de 2015 decidieron dar vida a este grupo. Según informa Ticketone, posteriormente se unió Damiano David y, después de publicar un anuncio en Facebook, ficharon a Ethan Torchio, que se encarga de la batería.", 
+			"tdeLectura" : 15
+		},
+		{
+			"titulo" : "LA MUSA MARLENA",
+			"texto" : "Si has escuchado las canciones de Måneskin, te habrás dado cuenta de que el nombre de Marlena se repite en varias de ellas. Pues bien, los propios artistas han explicado que Marlena encarna la personificación del mensaje de libertad, creatividad y vitalidad que quieren transmitir con su música. Algo así como un “Marlena somos todos” que integra a los cuatro miembros del grupo, a sus oyentes y también a los propios fans.", 
+			"tdeLectura" : 15
+		},
+		{
+			"titulo" : "GRITO DE GUERRA",
+			"texto" : "Basta ver una entrevista o un concierto del grupo para darse cuenta de que a menudo saludan con un: “Heyaah, this is Måneskin“. Un eslogan o grito de guerra que Damiano, Victoria, Ethan y Thomas seguramente pronunciaron antes de subirse al escenario Ahoy Arena de Rotterdam.", 
+			"tdeLectura" : 11
+		}
+	]
+}
